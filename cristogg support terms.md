@@ -13,4 +13,4 @@ Il Bot viene fornito "così com'è" e "come disponibile", senza garanzie di alcu
 Lo sviluppatore si riserva il diritto di modificare, aggiornare o interrompere le funzionalità del Bot in qualsiasi momento e senza preavviso.
 
 ## 4. Contatti
-Per domande o segnalazioni relative al Bot, è possibile contattare il supporto tramite @_wizzo__.
+Per domande o segnalazioni relative al Bot, è possibile contattare il supporto tramite `@_wizzo__`.
